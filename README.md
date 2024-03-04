@@ -14,7 +14,8 @@
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 ![Edx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
 ![Educativ](https://img.shields.io/badge/Educativ-4951F5?style=for-the-badge&logo=educative)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9cf?style=for-the-badge&logo=hack-the-box&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-03224C?style=for-the-badge&logo=hack-the-box&logoColor=01F308)
+
 
 
 
