@@ -28,6 +28,6 @@
 - 👀 I’m interested in learning always more
 - 🌱 I’m currently workong on my portfolio project for the DemoDay
 - 💞️ I’m looking to collaborate on Holberton project
-- 📫 How to reach me | Dm me on github !
+- 📫 How to reach me : mascret.clement@gmail.com 
 
 
