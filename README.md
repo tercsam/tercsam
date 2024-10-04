@@ -24,10 +24,9 @@
 
 
 
-- 👋 Hi, I’m  Clément, Im a student developper at HOLBERTONSCHOOL Lille #C23
-- 👀 I’m interested in learning always more
-- 🌱 I’m currently working on my portfolio project for the DemoDay
-- 💞️ I’m looking to collaborate on Holberton project
-- 📫 How to reach me : mascret.clement@gmail.com 
-
+👋 Hi, I’m Clément – a Junior Full Stack Developer with a focus on cybersecurity.
+👀 Passionate about continuous learning, always eager to expand my skills and take on new challenges.
+🌱 Currently working on an exciting project: StopFacho, an Android application aimed at combating hate speech and toxic behavior online.
+💬 Open to collaboration on projects related to cybersecurity, web/mobile development, and OSINT.
+📫 How to reach me: mascret.clement@gmail.com
 
