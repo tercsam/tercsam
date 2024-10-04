@@ -24,9 +24,13 @@
 
 
 
-👋 Hi, I’m Clément – a Junior Full Stack Developer with a focus on cybersecurity.
-👀 Passionate about continuous learning, always eager to expand my skills and take on new challenges.
-🌱 Currently working on an exciting project: StopFacho, an Android application aimed at combating hate speech and toxic behavior online.
-💬 Open to collaboration on projects related to cybersecurity, web/mobile development, and OSINT.
-📫 How to reach me: mascret.clement@gmail.com
+-👋 Hi, I’m Clément – a Junior Full Stack Developer with a focus on cybersecurity.
+
+-👀 Passionate about continuous learning, always eager to expand my skills and take on new challenges.
+
+-🌱 Currently working on an exciting project: StopFacho, an Android application aimed at combating hate speech and toxic behavior online.
+
+- 💬 Open to collaboration on projects related to cybersecurity, web/mobile development, and OSINT.
+  
+-📫 How to reach me: mascret.clement@gmail.com
 
