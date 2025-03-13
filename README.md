@@ -28,7 +28,7 @@
 
 -👀 Passionate about continuous learning, always eager to expand my skills and take on new challenges.
 
--🌱 Currently working on an exciting project: StopFacho, an Android application aimed at combating hate speech and toxic behavior online.
+-🌱 Currently working on expanding my knowledge on low level programing
 
 - 💬 Open to collaboration on projects related to cybersecurity, web/mobile development, and OSINT.
   
