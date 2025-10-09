@@ -32,5 +32,5 @@
 
 - 💬 Open to collaboration on projects related to cybersecurity, web/mobile development, and OSINT.
   
--📫 How to reach me: mascret.clement@gmail.com
+-📫 How to reach me: https://tercsam.github.io/DevLab-Portfolio/
 
