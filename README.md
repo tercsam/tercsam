@@ -168,26 +168,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=tercsam&theme=radical&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/tercsam/tercsam/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
