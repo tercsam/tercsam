@@ -30,7 +30,7 @@
 
 -🌱 Currently working on expanding my knowledge on low level programing
 
-- 💬 Open to collaboration on projects related to cybersecurity, web/mobile development, and OSINT.
+- 💬 Open to collaboration on projects related to cybersecurity, web/mobile development, and Gaming.
   
 -📫 How to reach me: https://tercsam.github.io/DevLab-Portfolio/
 
